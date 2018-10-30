@@ -24,10 +24,8 @@ The directories in this project cover a variety of topics helpful when getting s
 
 ## Topics
 
-1. Angular: coming soon
-1. Java: coming soon 
+1. Java 
 1. Spring 
-1. Continuous Integration: coming soon 
     
 ## Getting started
 
