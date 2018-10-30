@@ -5,16 +5,16 @@ The directories in this project cover a variety of topics helpful when getting s
 ## How to navigate this repo
 
 - Each directory contains a readme with a summary of that topic
-- Each directory contains drills which can be completed by following the instructions.md
+- Each directory contains drills which can be completed by following the instructions in the drill directory readme 
 
 ```
     |-- getting_started
     |   |--topic
     |   |   |-- README.md
     |   |   |-- 01_drill
-    |   |   |   |-- instructions.md
+    |   |   |   |-- README.md
     |   |   |-- 02_drill
-    |   |   |   |-- instructions.md
+    |   |   |   |-- README.md
 
 ```
 
@@ -24,10 +24,8 @@ The directories in this project cover a variety of topics helpful when getting s
 
 ## Topics
 
-1. Angular: coming soon
-1. Java: coming soon 
+1. Java 
 1. Spring 
-1. Continuous Integration: coming soon 
     
 ## Getting started
 

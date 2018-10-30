@@ -17,15 +17,16 @@ Run a simple Spring application
 
     - **Import the Maven Project**
     
-        Before beginning, your demo directory should look like this:
-        `demo/src/main/java/com.setup.demo/Application.java`
+        Before beginning, IntelliJ needs to recognize demo as a Maven project. 
         
-        If it looks like this: `demo/src/main/java/com/setup/demo/Application.java`, do the following:
+        To check if the project has been added, click `Maven Projects` in the right hand menu. You should see demo as a dropdown option.
+        
+        If you do not, do the following:
         - In the project directory panel (left), note the location of the pom.xml file
-            (`demo/pom.xml`)
-        - In the right panel menu, click maven projects
-        - Drag and drop the pom.xml file into the space
-        - Your project should now register and the directory structure will automatically update to `com.setup.demo`
+                    (`demo/pom.xml`)
+                - In the right panel menu, click maven projects
+                - Drag and drop the pom.xml file into the space
+                - Demo should now register as a Maven project
      
      - **Set the SDK:**
      
@@ -96,3 +97,9 @@ _Learning Objective Stretch: Distinguish between the Rest Controller annotation 
     
 _Learning Objective Check Point: Name one way to start a Spring application from IntelliJ_    
  
+## Additional Resources
+- [Spring Docs: Developing Your First Spring Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html)
+- [Spring Guides: Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
+- [Learn Spring Boot (Baeldung)](https://www.baeldung.com/spring-boot)
+- [REST with Spring Tutorial (Baeldung)](https://www.baeldung.com/rest-with-spring-series/)
+
