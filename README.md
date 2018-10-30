@@ -1,38 +1,56 @@
-# XYZ
+# Getting_Started
 
-this repo contains maecenas tincidunt nulla eget pellentesque blandit. Praesent dignissim ex nec nisl iaculis, eget sollicitudin tellus convallis. Phasellus ac tellus semper, luctus nisi at, hendrerit enim. Pellentesque vel consectetur augue. Etiam sagittis pretium elit et ullamcorper. Vivamus sed consectetur nunc. Aliquam non eleifend nisi.
+The directories in this project cover a variety of topics helpful when getting started
 
-Each directory contains drills sed ut tincidunt tortor, quis laoreet turpis. Duis lorem turpis, eleifend eget ligula ac, lobortis semper sem.
+## How to navigate this repo
 
-Learning Objectives curabitur nec egestas mi.
+- Each directory contains a readme with a summary of that topic
+- Each directory contains drills which can be completed by following the instructions.md
 
-## Prerequisites
+```
+    |-- getting_started
+    |   |--topic
+    |   |   |-- README.md
+    |   |   |-- 01_drill
+    |   |   |   |-- instructions.md
+    |   |   |-- 02_drill
+    |   |   |   |-- instructions.md
 
-- link
+```
 
-## Contents
+- The topics, and drills within, can be covered in order or individually depending on what you are looking to learn
+- To optimize outcomes, **read the learning objectives** before beginning a drill, and check back with them afterwards
 
 
-1. Angular
+## Topics
 
-    - 
-    - 
-    - 
-
-1. Java 
-
-    -
-    -  
-    - 
-    
+1. Angular: coming soon
+1. Java: coming soon 
 1. Spring 
-
-    -
-    -  
-    - 
+1. Continuous Integration: coming soon 
     
-1. Continuous Integration 
+## Getting started
 
-    -
-    -  
-    - 
+- Fork and clone this repo
+- Computer setup
+    - Link coming, follow temporary instructions below for now
+    - As needed, complete the computer setup outlined in the guide 
+    
+
+##### Temporary computer setup instructions (Mac OS Only): 
+- [Homebrew](https://brew.sh/)
+- Bash: commands will use the terminal (iterm preferred)
+- Code Organization: 
+    Create a workspace directory, in the terminal:
+    `mkdir ~/workspace`
+    `cd workspace`
+- Git:
+    `xcode-select --install`
+- [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html):
+    After, confirm:  `java -version`
+- [IntelliJ](https://www.jetbrains.com/idea/)
+    
+        
+        
+
+

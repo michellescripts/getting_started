@@ -1,31 +1,20 @@
 ## Spring
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Contents
-
-- Setup: Setup and run a new spring application
-- Run: 
-- CRUD: 
+### Drills
 
 #### 01_setup
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+By the end of this drill, you should be able to:
     
-- Structure/Generate an application with the Spring Initializr
-- List the steps required to open the project in intellij
+1. Structure/Generate an application with the Spring Initializr
+1. List the steps required to open the project in IntelliJ
 
 
-#### 02_run
+#### 02_run 
+By the end of this drill, you should be able to:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+1. Create a rest endpoint in a Spring application
+1. Name one way to start a Spring application from IntelliJ
+1. Describe IntelliJ Intention Actions 
+1. Stretch: Distinguish between the Rest Controller annotation and the Request Mapping annotation
 
-- LO 1
-- LO 2 
-
-
-#### 03_CRUD
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-- LO 1
-- LO 2 
+_Open the instructions.md in each drill directory for step-by-step guidance_
