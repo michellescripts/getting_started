@@ -1,0 +1,30 @@
+{
+  "Cheetos": {
+    "cost": 0.65,
+    "ordered": 60
+  },
+  "LaCroix": {
+    "cost": 1.99,
+    "ordered": 228
+  },
+  "SmartPop": {
+    "cost": 1.10,
+    "ordered":40
+  },
+  "Justin's Peanut Butter Cups": {
+    "cost": 2.01,
+    "ordered": 147
+  },
+  "Dried Mango": {
+    "cost": 5.99,
+    "ordered": 123
+  },
+  "Blueberries": {
+    "cost": 1.50,
+    "ordered": 30
+  },
+  "Greek Yogurt": {
+    "cost": 2.99,
+    "ordered": 43
+  }
+}

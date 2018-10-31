@@ -1,0 +1,20 @@
+{
+  "January": [
+    ["Cheetos", 60],
+    ["LaCroix", 55],
+    ["SmartPop", 40],
+    ["Justin's Peanut Butter Cups", 22]
+  ],
+  "February": [
+    ["Justin's Peanut Butter Cups", 100],
+    ["LaCroix", 75],
+    ["Dried Mango", 64],
+    ["Blueberries", 30]
+  ],
+  "March": [
+    ["LaCroix", 98],
+    ["Dried Mango", 59],
+    ["Greek Yogurt", 43],
+    ["Justin's Peanut Butter Cups", 25]
+  ]
+}
