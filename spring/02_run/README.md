@@ -96,3 +96,9 @@ _Learning Objective Stretch: Distinguish between the Rest Controller annotation 
     
 _Learning Objective Check Point: Name one way to start a Spring application from IntelliJ_    
  
+## Additional Resources
+- [Spring Docs: Developing Your First Spring Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html)
+- [Spring Guides: Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
+- [Learn Spring Boot (Baeldung)](https://www.baeldung.com/spring-boot)
+- [REST with Spring Tutorial (Baeldung)](https://www.baeldung.com/rest-with-spring-series/)
+

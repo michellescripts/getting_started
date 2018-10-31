@@ -46,3 +46,8 @@ Once the zip file has downloaded, we're ready to open the project in IntelliJ
 Look around the file structure, and when ready move on to the next drill where we'll create and run a simple application.
 
 _Learning Objective Check Point: List the steps required to open the project in IntelliJ_
+
+## Additional Resources
+If you would like to explore this topic more, check out these resources:
+- [Github Spring-io Initializr Docs](https://github.com/spring-io/initializr/)
+- [Spring Boot: Efficient Development, Configuration and Deployment (PluralSight )](https://app.pluralsight.com/library/courses/spring-boot-efficient-development-configuration-deployment/table-of-contents)

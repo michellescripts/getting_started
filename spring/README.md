@@ -17,4 +17,4 @@ By the end of this drill, you should be able to:
 1. Describe IntelliJ Intention Actions 
 1. Stretch: Distinguish between the Rest Controller annotation and the Request Mapping annotation
 
-_Open the instructions.md in each drill directory for step-by-step guidance_
+_Open the readme.md in each drill directory for step-by-step guidance_
