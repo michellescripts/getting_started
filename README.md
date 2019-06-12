@@ -24,7 +24,9 @@ The directories in this project cover a variety of topics helpful when getting s
 
 ## Topics
 
+1. Concourse
 1. Java 
+1. Kotlin
 1. Spring 
     
 ## Getting started
