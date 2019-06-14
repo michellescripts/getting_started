@@ -24,10 +24,12 @@ The directories in this project cover a variety of topics helpful when getting s
 
 ## Topics
 
-1. Concourse
-1. Java 
-1. Kotlin
-1. Spring 
+1. concourse
+1. git
+1. java 
+1. kotlin
+1. react
+1. spring 
     
 ## Getting started
 
